@@ -1,4 +1,4 @@
-<img align="center" src="capa01.jpg"><br>
+<img align="center" src="capa02.png"><br>
 
 <br>
 <br>
