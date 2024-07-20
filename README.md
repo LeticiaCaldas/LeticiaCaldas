@@ -49,13 +49,17 @@ Além disso, possuo uma base em linguagem <b>R</b>, <b>PostgreSQL</b>, <b>MySQL<
 
 ##
 
-Formação:
+FORMAÇÃO:
 
 <br>
 
 -   Em andamento: Bacharelado em Engenharia da computação (UFPEL)
+
+## 
+
+EXPERIÊNCIA:
   
--   Concluido: Estagiário no Laboratório de Sistemas Ubíquos e Paralelos (LUPS) - O estágio foi realizado no Laboratório de Sistemas Ubíquos e Paralelos (LUPS) com o objetivo de adquirir experiência prática em simulações quânticas utilizando o Qiskit, um framework de computação quântica desenvolvido pela IBM. Durante o período de estágio, foquei na simulação do interferômetro de Mach-Zehnder, um dispositivo fundamental em experimentos de óptica quântica.
+-   Concluido: Estagio no Laboratório de Sistemas Ubíquos e Paralelos (LUPS) - O estágio foi realizado no Laboratório de Sistemas Ubíquos e Paralelos (LUPS) com o objetivo de adquirir experiência prática em simulações quânticas utilizando o Qiskit, um framework de computação quântica desenvolvido pela IBM. Durante o período de estágio, foquei na simulação do interferômetro de Mach-Zehnder, um dispositivo fundamental em experimentos de óptica quântica.
   
 -   Concluido: Estágio no Labortório de de Geoprocessamento Aplicado a Estudos Ambientais - O estágio foi realizado no laboratório de Geoprocessamento aplicado a estudos ambientais com o objetivo de adquirir experiência prática na implementação de mapeamentos utilizando o software QGIS. Durante o período de estágio, foram exploradas diversas técnicas e ferramentas disponíveis no QGIS para produzir mapas geográficos de alta qualidade e precisão. Além disso, foram utilizados dados do sistema Giovanni, uma plataforma da NASA, para enriquecer as análises geoespaciais realizadas.
 
