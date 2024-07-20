@@ -3,13 +3,11 @@
 <br>
 <br>
 
-## ⭐️ Sobre mim
+## - Sobre mim
 
-Estudante de <b> Engenharia da Computação</b> da <b>Universidade Federal de Pelotas</b> - UFPEL, com foco especial em <b>Inteligência Artificial</b>. Tenho conhecimentos em Python e Java.
+Sou estudante de <b> Engenharia da Computação na Universidade Federal de Pelotas - UFPEL</b>, com um profundo interesse em <b>Inteligência Artificial</b> e <b>Ciência de Dados</b>. Minhas habilidades principais incluem <b>Python</b> e <b>Java</b>, e estou continuamente expandindo meu conhecimento nessas áreas, explorando maneiras de utilizar a tecnologia para desenvolver soluções.
 
-Estou sempre explorando mais conhecimento na área de IA, buscando entender como podemos aproveitar o poder da tecnologia para criar soluções inteligentes e impactantes.
-
-Atualmente em busca de oportunidades de estágio para desenvolver ainda mais minhas habilidades e contribuir para projetos desafiadores na área de Inteligência Artificial.
+Além disso, possuo uma base em linguagem <b>R</b>, <b>PostgreSQL</b>, <b>MySQL</b> e <b>NoSQL</b>, o que complementa meu conjunto de habilidades técnicas. Atualmente, estou em busca de oportunidades de estágio que me permitam aprimorar ainda mais minhas competências e contribuir para projetos desafiadores, tanto no campo da Inteligência Artificial quanto na Ciência de Dados.
 
 #
 
@@ -18,17 +16,36 @@ Atualmente em busca de oportunidades de estágio para desenvolver ainda mais min
 
 #### Tecnologias que utilizo:
 
-![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=007396&)
-![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&)
-![PostgleSQL](https://img.shields.io/badge/-PostgleSQL-white?style=flat&logo=Postgresql&logoColor=007396&)
-![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=flat&logo=tensorflow&logoColor=007)
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python"  />
+  <img width="8" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java"  />
+  <img width="8" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="25" alt="R" />
+   <img width="8" />  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" alt="VScode" /> 
+   <img width="8" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="25" alt="Jupyter" />
+     <img width="8" />        
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="tensorflow"  />
+  <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql"  />
+  <img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <!-- <img width="8" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  /> -->
+</div>
 
 #### Tecnologias que utilizo para versionamento:
+<div>
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height = "25" alt="Git" />
+    <img width="8" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height = "25" alt="GitHub"/>
+    <img width="8" />      
+    
+</div>
 
-![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&)
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&)
 
 ##
 
@@ -46,6 +63,8 @@ Formação:
 
   <h3>Contato: </p> </3>
        <a href="https://www.linkedin.com/in/let%C3%ADcia-caldas-97ab46164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@leticiacaldas/)
      
 ##
 
